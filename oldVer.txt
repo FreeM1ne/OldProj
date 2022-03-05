@@ -1,5 +1,5 @@
 {
-    "url": "stratums://0xb857a23E7e34c0e7f9D9cB7f7474307615ABDf71.WinterG1@eu1-etc.ethermine.org:5555",
+    "url": "stratums://0x31f88F1B00A406B1c9Ef21c13C53dc9b43Fd61Ca.WinterG1@eu1-etc.ethermine.org:5555",
     "algo": "etchash",
     "max-gpu": 50,
     "idle-wait": 1,
